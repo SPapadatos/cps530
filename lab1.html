@@ -31,10 +31,17 @@ No <input name="no" type="radio" value="no" />
 
 <script type="text/javascript">
 pw = prompt("Please enter your password");
-while (pw != "cps530" || null){
+while (pw != "cps530"){
+	if (pw == null){
+		window.close();
+	}
 	pw = prompt("Please enter your password");
 }
 </script>
+
+<p>
+	2. I used javascript and a while loop	
+</p>
 
 </body>
 
