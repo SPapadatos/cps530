@@ -6,7 +6,9 @@ body {
 pre {
 	color: #ffffff;}
 table, table * {
-	border-radius: 9px;}
+	border-radius: 9px;
+	border-width: 2px;
+}
 td {
 	text-align: center;}
 footer {
