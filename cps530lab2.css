@@ -1,0 +1,19 @@
+body {
+	background: #ffffff url("Sunrise.jpg");
+	background-size: 100% 700px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;}
+pre {
+	color: #ffffff;}
+table, table * {
+	border-radius: 9px;}
+td {
+	text-align: center;}
+footer {
+	box-shadow: 4px 4px 4px 3px #797979;
+	width:140px;}
+td#t1 {
+	font-size: 24px;}
+#gg {
+	font-size: 12px;}
+	
