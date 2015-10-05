@@ -6,6 +6,18 @@
 		<link rel="stylesheet" type="text/css" href="lab2.css"/>
 	</head>
 	<body>
+		<script type="text/javascript">
+			function authentication(){
+				pw = prompt("Please enter your password");
+				while (pw != "cps530"){
+					if (pw == null){
+					window.location = "http://www.google.ca";
+					return;
+					}else pw = prompt("Please enter your password");
+				}
+			}
+		authentication();
+		</script>
 		<pre>Stephen Papadatos
 500483389
 		</pre>
