@@ -1,0 +1,45 @@
+
+<html>
+<head><title>CPS530 Lab 1</title>
+</head>
+
+<body style="font-family:verdana,arial,helvetica;color:#336699;font-size:11pt;">
+<img src="internet.gif" width="120" align="right" />
+<h1>Lab #1</h1>
+
+<p>
+<b>Objective:</b><br>
+Write a Web page fully compliant with HTML5.<br><br>
+
+<b>Requirements:</b><br>
+<ol>
+<li>The page subject is entirely yours.</li>
+<li>Your name and student number must appear clearly on the main page</li>
+<li>You must not use CSS outside an actual tag (style attribute, no external CSS file).</li>
+<li>You must use a header tag like &lt;h1&gt; at least once.</li>
+<li>You must use a list (unordered, ordered or definition).</li>
+<li>You must use a tag you have never used before (if you are new to HTML, you may pick any one; if you have used them all, then say so in your technical report.</li>
+<li>You must validate your web page for HTML5 compliancy at <a href="http://validator.nu/">validator.nu</a> or <a href="http://validator.w3.org">validator.w3.org</a> and save the report into a file (or link to it from your page if possible).</li>
+<li>Your web page must have a link to your validation report and technical report.</li>
+<li>You must host your pages on a server of your choice: main page, technical report, and validation report (if necessary).</li>
+<li>The access to your page must be password protected. You use a method of your choosing to do it (use a search engine to find one).</li>
+<li>Write a technical report in HTML that contains all the following elements</li>
+	<ul>
+	<li>The actual printout of the HTML code.</li>
+	<li>How did you password protect your page (what method)?</li>
+	<li>What new tag did you try? What was its effect?</li>
+	<li>Does you page look different in different browsers (IE/Firefox/Chrome/Safari)? If yes, what are the main differences?</li>
+	<li>How long did you spend on this lab (approximately)</li>
+	</ul>
+</ol>
+
+<p>
+<b>Submission:</b><br>
+Submit the URL of your main page and your login and/or password using Brightspace (my.ryerson.ca).<br><br>
+
+<em style="color:#aa0000;">Due on or before Sunday September 27, 11:59 p.m. - No late submissions will be accepted.</em>
+
+</body>
+</html>
+
+
