@@ -1,0 +1,51 @@
+
+<html>
+<head><title>CPS530 Lab 2</title>
+</head>
+
+<body style="font-family:verdana,arial,helvetica;color:#336699;font-size:11pt;">
+<img src="internet.gif" width="120" align="right" />
+<h1>Lab #2</h1>
+
+<p>
+<b>Objective:</b><br>
+Write a Web page HTML5 compliant with the following requirements.<br><br>
+
+<b>Requirements:</b><br>
+<ol>
+<li>The page subject is entirely yours.</li>
+<li>Your name and student number must appear clearly on the main page</li>
+<li>You must have at least one image.</li>
+<li>You must have a table that uses at least one colspan or rowspan attribute.</li>
+<li>You must use at least two HTML5-only features.</li>
+<li>You must use CSS.</li>
+<li>You must use at least two CSS3-only features.</li>
+<li>You must define at least one element class in your style sheet (ex. div.myclass or p#myid).</li>
+<li>You must define one global style class in your style sheet (ex. .myclass or #myid).</li>
+<li>You must validate your web page for <a href="http://html5.validator.nu">HTML5 compliancy</a> and save the report into a file (or link to it from your page).</li>
+<li>Your web page must have a link to your validation report and technical report.</li>
+<li>You must host your page on a server of your choice.</li>
+<li>The access to your page must be password protected. You use a method of your choosing to do it. It can be the same one as lab #1.</li>
+<li>Write a technical report in HTML that contains all the following elements</li>
+	<ul>
+	<li>What is your element CSS class?</li>
+	<li>What is your global CSS class?</li>
+	<li>What are your HTML5-only tags?</li>
+	<li>What are your CSS3-only features?</li>
+	<li>Did you use the same protection method? If no, what did you use this time?</li>
+	<li>How long did you spend on this lab (approximately)</li>
+	</ul>
+
+
+</ol>
+
+<p>
+<b>Submission:</b><br>
+Submit the URL of your main page and your login and/or password using Brightspace (my.ryerson.ca).<br><br>
+
+<em style="color:#aa0000;">Due on or before Sunday October 4, 11:59 p.m. - No late submissions will be accepted.</em>
+
+</body>
+</html>
+
+
